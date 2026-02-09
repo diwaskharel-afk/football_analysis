@@ -3,7 +3,7 @@
 ## 🏆 Project Overview
 
 This is a comprehensive, production-grade analysis of the English Premier League 2020-21 season data. The project features advanced statistical analysis, machine learning techniques, and sophisticated visualizations to extract meaningful insights about player and team performance.
-
+![alt text](image.png)
 ## 📊 Features
 
 ### 1. Player Performance Analysis (`1_player_performance_analysis.py`)
@@ -16,6 +16,7 @@ This is a comprehensive, production-grade analysis of the English Premier League
 - **Positional Comparisons**: Statistical comparison across FW, MF, DF positions
 - **Young Talent Identification**: Custom talent scoring algorithm for players ≤23
 
+![alt text](outputs/bubble_chart_analysis.png)
 ### 2. Club Performance Analysis (`2_club_performance_analysis.py`)
 - **Attacking Metrics**: 
   - Total goals and assists by club
@@ -44,6 +45,7 @@ This is a comprehensive, production-grade analysis of the English Premier League
   - ANOVA for age group comparisons
   - T-tests for positional differences
 
+![alt text](outputs/heatmap_visualizations.png)
 ### 4. Advanced Visualizations (`4_advanced_visualizations.py`)
 - **Radar Charts**: Multi-dimensional player comparisons
 - **Bubble Charts**: 4-dimensional performance visualization
@@ -57,6 +59,10 @@ This is a comprehensive, production-grade analysis of the English Premier League
   - Lollipop charts
   - Diverging bar charts
   - Violin plots for distribution comparisons
+
+![alt text](outputs/scatter_matrix_analysis.png)
+![alt text](outputs/circular_bar_plots.png)
+![alt text](outputs/advanced_comparison_plots.png)
 
 ## 🗂️ Project Structure
 
