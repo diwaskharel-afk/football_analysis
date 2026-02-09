@@ -270,13 +270,7 @@ This project demonstrates:
 
 
 
-## 👤 Author
 
-Created as an advanced EPL data analysis project showcasing:
-- Professional Python coding practices
-- Advanced statistical methods
-- Data science visualization techniques
-- Sports analytics methodologies
 
 ## 🙏 Acknowledgments
 
